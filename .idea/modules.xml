@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cronjob-demo/cronjob-demo.iml" filepath="$PROJECT_DIR$/cronjob-demo/cronjob-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" filepath="$PROJECT_DIR$/dubbo-demo/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mooc-k8s-demo-docker.iml" filepath="$PROJECT_DIR$/.idea/mooc-k8s-demo-docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-demo/springboot-web-demo.iml" filepath="$PROJECT_DIR$/springboot-web-demo/springboot-web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-demo/web-demo.iml" filepath="$PROJECT_DIR$/web-demo/web-demo.iml" />
+    </modules>
+  </component>
+</project>
